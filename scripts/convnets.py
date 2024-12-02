@@ -57,7 +57,7 @@ class AutopilotNet(nn.Module):
         
         # Fully connected layers
         # Output size from conv layers is 64 x 9 x 12 after calculations
-        self.fc1 = nn.Linear(64 * 9 * 12, 128)  # Adjust to match flattened size
+        self.fc1 = nn.Linear(64 * 17 * 21, 128)  # Adjust to match flattened size
         self.fc2 = nn.Linear(128, 64)
         self.fc3 = nn.Linear(64, 2)  # Output steering and throttle
         
