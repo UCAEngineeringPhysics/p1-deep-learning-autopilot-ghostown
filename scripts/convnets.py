@@ -46,7 +46,7 @@ class AutopilotNet(nn.Module):
 import torch
 import torch.nn as nn
 
-class AutoPilotNet(nn.Module):
+class AutopilotNet(nn.Module):
     def __init__(self):
         super().__init__()
         # Convolutional layers
