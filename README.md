@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ZBaC74ep)
 # Final Project - Deep Learning Autopilot
+## [Final Video](https://drive.google.com/file/d/10Zca0u0ZAP-FqejqHWdk5wT81r6ZKhmf/view?usp=drive_link)
+
 ## Objectives
 - Develop a deep learning autopilot model based on convolutional neural networks.
 - Use behaviroal cloning approach to train this autopilot.
@@ -53,4 +55,3 @@ python ~/dlr/scripts/autopilot.py
 - The autopilot model will be tested and showcased on the track as shown below.
 ![race_track](111_raceway.png)
 
-## [Final Video](https://drive.google.com/file/d/10Zca0u0ZAP-FqejqHWdk5wT81r6ZKhmf/view?usp=drive_link)
