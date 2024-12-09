@@ -52,3 +52,5 @@ python ~/dlr/scripts/autopilot.py
 - Each team has 5 attempts. Each attempt should not last over 2 minutes.
 - The autopilot model will be tested and showcased on the track as shown below.
 ![race_track](111_raceway.png)
+
+## [Final Video](https://drive.google.com/file/d/10Zca0u0ZAP-FqejqHWdk5wT81r6ZKhmf/view?usp=drive_link)
